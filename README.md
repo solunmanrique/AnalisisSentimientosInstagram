@@ -22,3 +22,5 @@ El dataset utilizado en este proyecto consta de 98 comentarios extraídos de una
 ## Conclusiones del Proyecto
 -El uso de modelos pre entrenados para análisis de sentimientos en español tiene un rendimiento deficiente al enfrentarse a comentarios sarcásticos, algo común en la cultura latinoamericana. Se requiere mejorar la capacidad del modelo para interpretar con precisión este tipo de contenido.
 -El modelo necesita algunos ajustes para poder enfrentar cualquier tipo de publicación sin complicaciones.
+## LINK DE PRESENTACION
+https://docs.google.com/presentation/d/1D9Y0yaI7mN9nFTsrlylURx0wRR4qc-opiXWCpy4Qo-c/edit?usp=sharing
